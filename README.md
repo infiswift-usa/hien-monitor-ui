@@ -1,1 +1,2 @@
-# [Light Bootstrap Dashboard React] based UI for monitoring preview and production Hien services
+# Hien Monitor UI
+Light Bootstrap Dashboard React based UI for monitoring preview and production Hien services
