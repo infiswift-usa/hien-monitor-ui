@@ -54,7 +54,7 @@ class LoginPage extends Component {
                         this.props.callLogin(this.props.auth.email, this.props.auth.password);
                         this.loginSubmit.bind(this)
                         var data={"id":1,"mode":this.state.select_mode};
-                        fetch('http://localhost:8080/loginMode/1', {
+                        fetch('http://13.56.183.214:8080/loginMode/1', {
                             method: 'PUT',
                             headers: {
                               "Content-Type": "application/json",
